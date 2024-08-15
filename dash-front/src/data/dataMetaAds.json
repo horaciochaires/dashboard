@@ -1,0 +1,26 @@
+{
+  "anuncios": [
+    {
+      "nombre": "Anuncio 1",
+      "alcance": 5000,
+      "participación": 300,
+      "gastoPublicidad": 100,
+      "conversiones": 30
+    },
+    {
+      "nombre": "Anuncio 2",
+      "alcance": 7500,
+      "participación": 500,
+      "gastoPublicidad": 150,
+      "conversiones": 45
+    },
+    {
+        "nombre": "Anuncio 3",
+        "alcance": 8500,
+        "participación": 700,
+        "gastoPublicidad": 250,
+        "conversiones": 90
+      }
+  ]
+}
+

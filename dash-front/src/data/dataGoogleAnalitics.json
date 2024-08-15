@@ -1,0 +1,136 @@
+{
+    "vistasPagina": [
+        {
+            "fecha": "2024-08-01",
+            "vistas": 300
+        },
+        {
+            "fecha": "2024-08-02",
+            "vistas": 450
+        },
+        {
+            "fecha": "2024-08-03",
+            "vistas": 250
+        },
+        {
+            "fecha": "2024-08-04",
+            "vistas": 750
+        },
+        {
+            "fecha": "2024-08-05",
+            "vistas": 650
+        },
+        {
+            "fecha": "2024-08-06",
+            "vistas": 200
+        },
+        {
+            "fecha": "2024-08-07",
+            "vistas": 800
+        },
+        {
+            "fecha": "2024-08-08",
+            "vistas": 450
+        },
+        {
+            "fecha": "2024-08-09",
+            "vistas": 250
+        },
+        {
+            "fecha": "2024-08-10",
+            "vistas": 100
+        },
+        {
+            "fecha": "2024-08-11",
+            "vistas": 950
+        },
+        {
+            "fecha": "2024-08-12",
+            "vistas": 1050
+        }
+    ],
+    "sesiones": [
+        {
+            "fecha": "2024-08-01",
+            "sesiones": 200,
+            "tasaRebote": 0.35
+        },
+        {
+            "fecha": "2024-08-02",
+            "sesiones": 300,
+            "tasaRebote": 0.40
+        },
+        {
+            "fecha": "2024-08-03",
+            "sesiones": 250,
+            "tasaRebote": 0.38
+        },
+        {
+            "fecha": "2024-08-04",
+            "sesiones": 320,
+            "tasaRebote": 0.33
+        },
+        {
+            "fecha": "2024-08-05",
+            "sesiones": 280,
+            "tasaRebote": 0.42
+        },
+        {
+            "fecha": "2024-08-06",
+            "sesiones": 310,
+            "tasaRebote": 0.37
+        },
+        {
+            "fecha": "2024-08-07",
+            "sesiones": 260,
+            "tasaRebote": 0.39
+        },
+        {
+            "fecha": "2024-08-08",
+            "sesiones": 270,
+            "tasaRebote": 0.36
+        },
+        {
+            "fecha": "2024-08-09",
+            "sesiones": 290,
+            "tasaRebote": 0.41
+        },
+        {
+            "fecha": "2024-08-10",
+            "sesiones": 305,
+            "tasaRebote": 0.34
+        },
+        {
+            "fecha": "2024-08-11",
+            "sesiones": 330,
+            "tasaRebote": 0.32
+        },
+        {
+            "fecha": "2024-08-12",
+            "sesiones": 295,
+            "tasaRebote": 0.37
+        }
+    ],
+    "demografía": {
+        "edad": [
+            {
+                "rango": "18-24",
+                "porcentaje": 25
+            },
+            {
+                "rango": "25-34",
+                "porcentaje": 40
+            }
+        ],
+        "género": [
+            {
+                "tipo": "hombre",
+                "porcentaje": 55
+            },
+            {
+                "tipo": "mujer",
+                "porcentaje": 45
+            }
+        ]
+    }
+}

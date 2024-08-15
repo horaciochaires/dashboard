@@ -1,0 +1,33 @@
+{
+    "campañas": [
+      {
+        "nombre": "Campaña 1",
+        "impresiones": 1000,
+        "clics": 150,
+        "conversiones": 20,
+        "costo": 200
+      },
+      {
+        "nombre": "Campaña 2",
+        "impresiones": 2000,
+        "clics": 300,
+        "conversiones": 50,
+        "costo": 350
+      },
+      {
+        "nombre": "Campaña 3",
+        "impresiones": 4000,
+        "clics": 500,
+        "conversiones": 100,
+        "costo": 550
+      },
+      {
+        "nombre": "Campaña 4",
+        "impresiones": 2000,
+        "clics": 100,
+        "conversiones": 70,
+        "costo": 600
+      }
+    ]
+  }
+  

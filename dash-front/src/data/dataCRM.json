@@ -1,0 +1,8 @@
+{
+  "leads": [
+    { "nombre": "Lead 1", "costoAdquisición": 200, "valorDeVida": 1000 },
+    { "nombre": "Lead 2", "costoAdquisición": 150, "valorDeVida": 750 }
+  ],
+  "tasaConversión": 0.08
+}
+
